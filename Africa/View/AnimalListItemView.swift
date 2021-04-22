@@ -37,7 +37,7 @@ struct AnimalListItemView: View {
                     .padding(.trailing, 8)
             } //: VStack
         } //: HSTACK
-//        .padding(.top, 12)
+        .padding(.vertical, 8)
     }
 }
 
